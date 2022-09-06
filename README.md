@@ -21,13 +21,12 @@
 
 <h3>Currently learn</h3>
 <ul>
-<li>More about Node js</li>
-<li>More about JavaScript</li>
+<li>Native android dev</li>
 </ul>
 <h3>Intent to learn</h3>
 <ul>
-<li>Kotlin basics</li>
-<li>XML </li>
+<li>Python</li>
+<li>Django</li>
 </ul>
 <h3>Contact me</h3>
 <a href="https://twitter.com/Abdallah3122001"><img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" width="25px" alt="twitter"></a>
