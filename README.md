@@ -21,12 +21,12 @@
 
 <h3>Currently learn</h3>
 <ul>
-<li>Native android dev</li>
+<li>PHP</li>
 </ul>
 <h3>Intent to learn</h3>
 <ul>
-<li>Python</li>
-<li>Django</li>
+<li>Laravel</li>
+<li>python</li>
 </ul>
 <h3>Contact me</h3>
 <a href="https://twitter.com/Abdallah3122001"><img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" width="25px" alt="twitter"></a>
