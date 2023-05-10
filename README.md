@@ -22,10 +22,11 @@
 <h3>Currently learn</h3>
 <ul>
 <li>PHP</li>
+  <li>Laravel</li>
 </ul>
 <h3>Intent to learn</h3>
 <ul>
-<li>Laravel</li>
+
 <li>python</li>
 </ul>
 <h3>Contact me</h3>
