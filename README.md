@@ -19,16 +19,12 @@
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3>Currently learn</h3>
+<h3>Currently learning</h3>
 <ul>
-<li>PHP</li>
-  <li>Laravel</li>
+<li>GO</li>
+  
 </ul>
-<h3>Intent to learn</h3>
-<ul>
 
-<li>python</li>
-</ul>
 <h3>Contact me</h3>
 <a href="https://twitter.com/Abdallah3122001"><img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" width="25px" alt="twitter"></a>
 <a href="http://abdulah4.herokuapp.com/#contact"><img src="https://cdn-icons.flaticon.com/png/512/1329/premium/1329016.png?token=exp=1651140541~hmac=2e5f319cd122e64bd573c7e951c7e78e" width="25px" alt="my website"></a>
