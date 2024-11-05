@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Abdullah, Flutter developer from <img src="https://cdn-icons-png.flaticon.com/512/203/203024.png" width="20"/> <b>Egypt</b> </p>
-<h3>Things I work with</h3>
+<h3>Things I worked with</h3>
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-13548b?style=flat-square&logo=flutter&logoColor=white" />
    <img alt="Dart" src="https://img.shields.io/badge/-Dart-13548b?style=flat-square&logo=dart&logoColor=white" />
@@ -17,12 +17,15 @@
    <img alt="GO" src="https://img.shields.io/badge/-Go-00a7d0?style=rounded-square&logo=go&logoColor=white" />
    <img alt="PHP" src="https://img.shields.io/badge/-php-FFFFFF?style=rounded-square&logo=php&logoColor=intego" />
    <img alt="DigitalOcean" src="https://img.shields.io/badge/-Digital%20Ocean-blue?style=rounded-square&logo=digitalocean&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=docker&logoColor=blue" />
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ <img alt="github" src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+   
 </p>
 
 <h3>Currently learning</h3>
 <ul>
-<li>GO</li>
+<li>GOLANG</li>
   
 </ul>
 
@@ -30,7 +33,7 @@
 
 
 <a href="https://www.linkedin.com/in/abdallah-awad-777212171/"><img src="https://img.shields.io/badge/-linkedin-0a66c2?style=rounded-square&logo=linkedin&logoColor=white"  alt="linkedin"></a>
-<a href="https://wa.me/+201026828490"><img src="https://img.shields.io/badge/-whatsapp-48e965?style=rounded-square&logo=whatsapp&logoColor=white" alt="whatsapp" ></a>
+<a href="https://wa.me/+201281767802"><img src="https://img.shields.io/badge/-whatsapp-48e965?style=rounded-square&logo=whatsapp&logoColor=white" alt="whatsapp" ></a>
 
 
 <h3>Github Stats</h3>
