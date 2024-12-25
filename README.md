@@ -35,7 +35,37 @@
 <a href="https://www.linkedin.com/in/abdallah-awad-777212171/"><img src="https://img.shields.io/badge/-linkedin-0a66c2?style=rounded-square&logo=linkedin&logoColor=white"  alt="linkedin"></a>
 <a href="https://wa.me/+201281767802"><img src="https://img.shields.io/badge/-whatsapp-48e965?style=rounded-square&logo=whatsapp&logoColor=white" alt="whatsapp" ></a>
 
+<!-- a comment in html -->
+# Top Apps
+Top Apps Created with Flutter Framework
+### 1. MediPatient - patient
+  A seamless platform bridging the gap between doctors and patients, empowering healthcare with easy access, communication, and care.
+  I Built both backend and frontend
+
+<img alt="medipatient" src="https://i.postimg.cc/WzkpVX9W/medipatient-patient.png" />
+
+### 2. MediPatient - doctor
+  A seamless platform bridging the gap between doctors and patients, empowering healthcare with easy access, communication, and care.
+
+<img alt="medipatient" src="https://i.postimg.cc/BQ9Tx71M/medipatient-doctor.png" />
+
+
+### 3. Tawseltk
+ Tawsetk is an innovative hybrid application that bridges the gap between ride-hailing services like Uber and traditional public transportation systems such as buses and shuttles.
+ I built the Flutter app 
+<img alt="Tawseltk" src="https://i.postimg.cc/438fG3cn/tawseltk.png" />
+
+### 4. Umagic
+ Umagic is an image generation app that helps users create images effortlessly, powered by Firebase and some third party service.
+<img alt="Tawseltk" src="https://i.postimg.cc/fyfg4V3r/Umagic.png" />
+
+### 5. Rephrasify
+ Rephrasify is an app that helps you rephrase files, detect AI-generated content, and create summaries easily. Backed with Firebase and some third party services.
+<img alt="Tawseltk" src="https://i.postimg.cc/mZydgFDd/rephrasify.png" />
+
 
 <h3>Github Stats</h3>
 <p align="start"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdallahawd&theme=tokyonight&show_icons=true" alt="abdallahawad" /></p>
+
+
 
